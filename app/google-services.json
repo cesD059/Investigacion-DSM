@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729161603351",
+    "project_id": "dsm-investigacion01",
+    "storage_bucket": "dsm-investigacion01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729161603351:android:2ac27f3d0281bebc90ff52",
+        "android_client_info": {
+          "package_name": "udb.edu.investigacion01_dsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdu4J4N08xAKVMhBBqQYGMmrwt9on0_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729161603351:android:32f2bc1ac8428a2e90ff52",
+        "android_client_info": {
+          "package_name": "udb.edu.sv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdu4J4N08xAKVMhBBqQYGMmrwt9on0_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
