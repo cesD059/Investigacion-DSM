@@ -2,6 +2,6 @@
 
 Integrantes:
 
-Paola Fernanda Ramirez Rauda RR232015 40%
-Calvin Jonathan Mena Dimas MD232400 30%
-Cesia Aracely Raymundo Peraza RP231877 30%
+Paola Fernanda Ramirez Rauda RR232015 100%
+Calvin Jonathan Mena Dimas MD232400 90%
+Cesia Aracely Raymundo Peraza RP231877 90%
